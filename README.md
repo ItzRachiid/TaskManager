@@ -48,3 +48,40 @@ Agregar tarea: permitirá escribir y agregar una nueva tarea.
 Lista de tareas: permitirá marcar tareas como completadas o eliminarlas.
 
 Los diseños iniciales se representarán mediante wireframes sencillos antes de comenzar el desarrollo de la aplicación.
+
+
+Mis wireframes se verían algo así:
+
+┌─────────────────────────┐
+│      TASKMANAGER        │
+├─────────────────────────┤
+│ Mis tareas              │
+│                         │
+│ ☐ Hacer tarea           │
+│ ☑ Comprar comida        │
+│ ☐ Estudiar              │
+│                         │
+│       [+ Agregar]       │
+└─────────────────────────┘
+┌─────────────────────────┐
+│     NUEVA TAREA         │
+├─────────────────────────┤
+│                         │
+│ Escribe una tarea:      │
+│ ┌─────────────────────┐ │
+│ │ Estudiar Android    │ │
+│ └─────────────────────┘ │
+│                         │
+│       [Agregar]         │
+└─────────────────────────┘
+┌─────────────────────────┐
+│   ADMINISTRACIÓN        │
+├─────────────────────────┤
+│ Tareas registradas      │
+│                         │
+│ Hacer tarea     [Borrar]│
+│ Estudiar        [Borrar]│
+│ Comprar comida  [Borrar]│
+└─────────────────────────┘
+
+
