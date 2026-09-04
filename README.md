@@ -85,3 +85,31 @@ Mis wireframes se verían algo así:
 └─────────────────────────┘
 
 
+Módulo #2
+
+---
+
+Estructura de Pantallas
+Basado en los wireframes definidos, la aplicación contará con 3 vistas principales para gestionar el flujo del usuario:
+
+1. **Pantalla Principal (`Mis tareas`):** 
+   - Esta mostraría el listado actual de tareas pendientes y completadas con indicadores visuales (`☐` / `☑`).
+   - Incluye un acceso directo (`[+ Agregar]`) para navegar hacia la creación de nuevas tareas.
+
+2. **Pantalla de Nueva Tarea:** 
+   - Contar;ia con una interfaz dedicada con un campo de texto para escribir la descripción de la actividad.
+   - Botón de confirmación (`[Agregar]`) para registrar la tarea en la lista principal.
+
+3. **Pantalla de Administración:** 
+   - Contaría con una vista orientada al control y gestión de los elementos registrados.
+   - Permitiría al usuario visualizar el listado completo acompañado de una acción directa de eliminación (`[Borrar]`) para cada tarea.
+
+
+
+
+
+
+
+
+
+
